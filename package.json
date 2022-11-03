@@ -8,8 +8,16 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "husky": {
+    "hooks": {
+      "applypatch-msg": "echo \"[Husky] applypatch-msg\"",
+      "pre-applypatch": "echo \"[Husky] pre-applypatch\"",
+      "post-applypatch": "echo \"[Husky] post-applypatch\"",
+      "pre-commit": "echo \"[Husky] pre-commit\""
+    }
+  },
   "dependencies": {
-    "@expo/webpack-config": "^0.17.0",
+    "@expo/webpack-config": "^0.16.19",
     "chokidar": "^3.5.3",
     "expo": "~46.0.9",
     "expo-random": "~12.3.0",
@@ -18,10 +26,12 @@
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.5",
-    "react-native-web": "~0.18.7"
+    "react-native-web": "~0.18.7",
+    "uuid": "^7.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "husky": "^8.0.1"
   },
   "private": true
 }
