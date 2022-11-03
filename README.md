@@ -33,23 +33,26 @@
 - Redes de atenção à Saúde; 
 - Tipos de Equipe de Atenção Primária.
 
-## 🚀 Onde acessar?'
+## 🚀 Onde acessar?
 &nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessar a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à filosofia do código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+&nbsp;&nbsp;&nbsp; Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 
-1- Tecnologias *imprescindíveis* para a instalação e uso do software:
-2- Tecnologias *importantes* para a instalação e uso do software:
-3- Tecnologias *auxiliares* para a instalação uso do software:
-4- Tecnologias *recomendadas para desenvolver em grupo*:
+### Tecnologias e conhecimentos *imprescindíveis* para a instalação e/ou uso do software:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />Chrome(ou qualquer outro navegador Web): https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />CSS3: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />HTML5: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />JavaScript: https://www.google.com/intl/pt-BR/chrome/
+ 
+### Tecnologias e conhecimentos *importantes* para a instalação e/ou uso do software:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />Markdown: https://www.google.com/intl/pt-BR/chrome/
+ 
+### Tecnologias e conhecimentos *auxiliares* para a instalação e/ou uso do software:
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />
-Chrome: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
- CSS3: https://www.google.com/intl/pt-BR/chrome/
+### Tecnologias *recomendadas para desenvolve-lo em grupo*:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" title="ESLint" />
  ESLint: https://eslint.org/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
@@ -58,10 +61,6 @@ Chrome: https://www.google.com/intl/pt-BR/chrome/
  GitHub: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Google" />
  Google: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
- HTML5: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />
- JavaScript: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
  LinkedIn: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />
@@ -76,7 +75,6 @@ Chrome: https://www.google.com/intl/pt-BR/chrome/
  VSCode: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" title="Yarn" />
  Yarn: https://www.google.com/intl/pt-BR/chrome/
-</div>
 
 ### 🔧 Instalação
 
