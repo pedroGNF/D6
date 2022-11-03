@@ -101,8 +101,8 @@ Foi desenvolvido no software focado em prototipagem, Figma<img src="https://cdn.
 
 ## ✒️ Autores
 
-- **Pedro Fonseca** - *Desenvolvedor front-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
-- **Vinicius Casanova** - *Desenvolvedor front-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
-- **Rafael Bacelar** - *Desenvolvedor back-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
-- **Ryan Oliveira** - *Desenvolvedor back-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
-- **Prof. Tatiane Morais** - *Idealizadora* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
+- **Pedro Fonseca** - *Desenvolvedor front-end* - [Contato](https://github.com/pedroGNF/Profile)
+- **Vinicius Casanova** - *Desenvolvedor front-end* - [Contato](https://github.com/pedroGNF/Profile)
+- **Rafael Bacelar** - *Desenvolvedor back-end* - [Contato](https://github.com/pedroGNF/Profile)
+- **Ryan Oliveira** - *Desenvolvedor back-end* - [Contato](https://github.com/pedroGNF/Profile)
+- **Prof. Tatiane Morais** - *Idealizadora* - [Contato](https://github.com/pedroGNF/Profile)
