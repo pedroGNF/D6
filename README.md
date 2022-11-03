@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp; O MiscWeb consiste em uma plataforma web onde os alunos do curso de Medicina do Centro Universitário do Estado do Pará (CESUPA) podem ter acesso às mais diversas informações sobre a Unidade Básica de Saúde em que atuam na disciplina Módulo de Interação em Saúde na Comunidade (MISC). As informações são apresentadas de forma facilitada a fim de promover o melhor ensino desta disciplina aos alunos do curso de Medicina e assim oferecer melhor suporte e auxílio aos pacientes das comunidades assistidas.
  
-&nbsp;&nbsp;&nbsp; O protótipo é constituído de uma Landing Page, como página inicial, one será possível ter uma noção geral do que se trata o projeto, além de três principais opções de paginas de deconteudo: *_SUS, SDF, Ações à comunidade_*. A aplicação em si, consiste de uma plataforma em que é disponibilizada informações baseadas na portaria nº 2.436, de 21 de setembro de 2017, sobre as diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS), a partir dos seguintes campos: 
+&nbsp;&nbsp;&nbsp; A aplicação em si, consiste de uma plataforma em que é disponibilizada informações baseadas na portaria nº 2.436, de 21 de setembro de 2017, sobre as diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS), a partir dos seguintes campos: 
 - Atenção Primária em Saúde;
 - Territorialização;
 - Estratégia Saúde da Família;
@@ -43,7 +43,7 @@
 ### Tecnologias e conhecimentos *imprescindíveis* para a instalação e/ou uso do software:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />&nbsp;&nbsp;Next JS: https://nextjs.org/docs
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />&nbsp;&nbsp;VSCode: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />&nbsp;&nbsp;VSCode: https://code.visualstudio.com/download
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />&nbsp;&nbsp;Chrome: https://www.google.com/intl/pt-BR/chrome/
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />&nbsp;&nbsp;CSS3: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />&nbsp;&nbsp;JavaScript: https://www.javascript.com/learn/strings
@@ -56,13 +56,15 @@
  
 ### Tecnologias e conhecimentos *auxiliares* para a instalação e/ou uso do software:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" title="ESLint" />&nbsp;&nbsp;ESLint: https://eslint.org/
+- <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="40" height="40" title="ESLint" />&nbsp;&nbsp;Prettier: https://prettier.io/
+- <img src="https://cdn0.iconfinder.com/data/icons/siberian-husky-emoticons-1/512/Naughty-Emoji-Emotion-Face-Expression-Feeling_1-512.png" width="40" height="40" title="ESLint" />&nbsp;&nbsp;Husky: https://typicode.github.io/husky/#/
 
 ### Tecnologias *recomendadas para desenvolver e estudar em grupo*:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />&nbsp;&nbsp;Git: https://www.google.com/intl/pt-BR/chrome/
 - <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40" title="GitHub" />&nbsp;&nbsp;GitHub: https://www.google.com/intl/pt-BR/chrome/
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />&nbsp;&nbsp;LinkedIn: https://www.google.com/intl/pt-BR/chrome/
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />Trello: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />&nbsp;&nbsp;Trello: https://www.google.com/intl/pt-BR/chrome/
 
 
 ### 🔧 Instalação
@@ -83,29 +85,11 @@ Até finalizar
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
-## ⚙️ Executando os testes
+## 📝 Protótipo
+&nbsp;&nbsp;&nbsp; O protótipo é constituído de uma Landing Page, como página inicial, one será possível ter uma noção geral do que se trata o projeto, além de três principais opções de paginas de deconteudo: *_SUS, SDF, Ações à comunidade_*.
 
-Explicar como executar os testes automatizados para este sistema.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />
 
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
