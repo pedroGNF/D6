@@ -41,34 +41,32 @@
 ## 📋 Pré-requisitos
 
 ### Tecnologias e conhecimentos *imprescindíveis* para a instalação e/ou uso do software:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />Chrome(ou qualquer outro navegador Web): https://www.google.com/intl/pt-BR/chrome/
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />CSS3: https://www.google.com/intl/pt-BR/chrome/
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />HTML5: https://www.google.com/intl/pt-BR/chrome/
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />JavaScript: https://www.google.com/intl/pt-BR/chrome/
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />&nbsp;&nbsp;Next JS: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />&nbsp;&nbsp;Chrome (ou qualquer outro navegador Web): https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />&nbsp;&nbsp;CSS3: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />&nbsp;&nbsp;JavaScript: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />&nbsp;&nbsp;Node JS: https://www.google.com/intl/pt-BR/chrome/
  
 ### Tecnologias e conhecimentos *importantes* para a instalação e/ou uso do software:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />Markdown: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />&nbsp;&nbsp;HTML5: https://www.google.com/intl/pt-BR/chrome/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />&nbsp;&nbsp;Markdown: https://www.google.com/intl/pt-BR/chrome/
  
 ### Tecnologias e conhecimentos *auxiliares* para a instalação e/ou uso do software:
-
-### Tecnologias *recomendadas para desenvolve-lo em grupo*:
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" title="ESLint" />
  ESLint: https://eslint.org/
+
+### Tecnologias *recomendadas para desenvolver e estudar em grupo*:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
  Git: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40" title="GitHub" />
  GitHub: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Google" />
- Google: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
  LinkedIn: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />
- Markdown: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />
- Next JS: https://www.google.com/intl/pt-BR/chrome/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />
- Node JS: https://www.google.com/intl/pt-BR/chrome/
+
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />
  Trello: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />
