@@ -11,6 +11,11 @@
  | | <img src="https://user-images.githubusercontent.com/50996658/199648316-2f4fed5d-682e-43f6-b326-9a2e3f502081.png" alt="videoD6" width="25%" /> |  |
  | |  |  |
  </a>
+ 
+ 
+ 
+ 
+ 
 
 
 
@@ -18,21 +23,42 @@
 
 # :woman_in_manual_wheelchair: MiscWeb :desktop_computer:
 
-Um parágrafo da descrição do projeto vai aqui
+&nbsp;&nbsp;&nbsp; O MiscWeb consiste em uma plataforma web onde os alunos do curso de Medicina do Centro Universitário do Estado do Pará (CESUPA) podem ter acesso às mais diversas informações sobre a Unidade Básica de Saúde em que atuam na disciplina Módulo de Interação em Saúde na Comunidade (MISC). As informações são apresentadas de forma facilitada a fim de promover o melhor ensino desta disciplina aos alunos do curso de Medicina e assim oferecer melhor suporte e auxílio aos pacientes das comunidades assistidas.
+ 
+&nbsp;&nbsp;&nbsp; O protótipo é constituído de uma Landing Page, como página inicial, one será possível ter uma noção geral do que se trata o projeto, além de três principais opções de paginas de deconteudo: *_SUS, SDF, Ações à comunidade_*. A aplicação em si, consiste de uma plataforma em que é disponibilizada informações baseadas na portaria nº 2.436, de 21 de setembro de 2017, sobre as diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS), a partir dos seguintes campos: 
+- Atenção Primária em Saúde;
+- Territorialização;
+- Estratégia Saúde da Família;
+- Cadastro Individual e Familiar;
+- Redes de atenção à Saúde; 
+- Tipos de Equipe de Atenção Primária.
 
-## 🚀 Começando
+## 🚀 Onde acessar?'
+&nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessar a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à ilosofia de código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89#-implantação)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
-Dar exemplos
-```
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />
+Chrome download: https://www.google.com/intl/pt-BR/chrome/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" title="ESLint" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Google" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40" title="MS-DOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" title="Yarn" />
 
 ### 🔧 Instalação
 
