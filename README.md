@@ -1,3 +1,5 @@
 # D6
 
-Simulador digital de um dado D6 🎲 (Gera um número aleatório entre 1 e 6).
+Digital simulator of a D6 dice � (Generates a random number between 1 and 6).
+
+![Exploratoty testing video](https://vimeo.com/766734097)
