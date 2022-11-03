@@ -66,27 +66,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />&nbsp;&nbsp;LinkedIn: https://www.google.com/intl/pt-BR/chrome/
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />&nbsp;&nbsp;Trello: https://www.google.com/intl/pt-BR/chrome/
 
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
 ## 📝 Protótipo
-&nbsp;&nbsp;&nbsp; O protótipo é constituído de uma Landing Page, como página inicial, one será possível ter uma noção geral do que se trata o projeto, além de três principais opções de paginas de deconteudo: *_SUS, SDF, Ações à comunidade_*.
+&nbsp;&nbsp;&nbsp; O protótipo é constituído de uma Landing Page, como página inicial, onde será possível ter uma noção geral do que se trata o projeto, além de três principais opções de páginas de deconteudo: *_SUS, SDF, Ações à comunidade_*.
 
 <div>
 Foi desenvolvido no software focado em prototipagem, Figma<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" /></div>
