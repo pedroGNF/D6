@@ -101,20 +101,8 @@ Foi desenvolvido no software focado em prototipagem, Figma<img src="https://cdn.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-- **Pedro Fonseca** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
-- **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-- Conte a outras pessoas sobre este projeto 📢;
-- Convide alguém da equipe para uma cerveja 🍺;
-- Um agradecimento publicamente 🫂;
-- etc.
+- **Pedro Fonseca** - *Desenvolvedor front-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
+- **Vinicius Casanova** - *Desenvolvedor front-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
+- **Rafael Bacelar** - *Desenvolvedor back-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
+- **Ryan Oliveira** - *Desenvolvedor back-end* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
+- **Prof. Tatiane Morais** - *Idealizadora* - [umdesenvolvedor](https://github.com/pedroGNF/Profile)
