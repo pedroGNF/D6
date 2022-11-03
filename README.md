@@ -34,7 +34,7 @@
 - Tipos de Equipe de Atenção Primária.
 
 ## 🚀 Onde acessar?
-&nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessar a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à filosofia do código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
+&nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessada a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à filosofia do código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
 
 &nbsp;&nbsp;&nbsp; Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
@@ -116,7 +116,7 @@ Foi desenvolvido no software focado em prototipagem, Figma<img src="https://cdn.
 
 ## 📌 Versões
 
-<img src="https://user-images.githubusercontent.com/50996658/199851749-ada5900f-cf65-4f3d-9b33-3d7749c3de23.png" alt="Protótipo" width="25%" />
+<img src="https://user-images.githubusercontent.com/50996658/199854936-df0fe007-7189-4e48-82f5-d29ec08e8cbd.png" alt="Protótipo" width="25%" />
 
 ## ✒️ Autores
 
