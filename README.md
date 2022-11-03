@@ -34,31 +34,49 @@
 - Tipos de Equipe de Atenção Primária.
 
 ## 🚀 Onde acessar?'
-&nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessar a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à ilosofia de código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
+&nbsp;&nbsp;&nbsp; Nossa aplicação poderá ser acessar a partir de um futuro endereço de URL na World Wide Web {ex: www.miscweb.com}, entretanto em função de apoio à filosofia do código aberto, segue o passo a passo para rodar o projer]to em sua maquina.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+1- Tecnologias *imprescindíveis* para a instalação e uso do software:
+2- Tecnologias *importantes* para a instalação e uso do software:
+3- Tecnologias *auxiliares* para a instalação uso do software:
+4- Tecnologias *recomendadas para desenvolver em grupo*:
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" title="Chrome" />
-Chrome download: https://www.google.com/intl/pt-BR/chrome/
+Chrome: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+ CSS3: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" title="ESLint" />
+ ESLint: https://eslint.org/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+ Git: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40" title="GitHub" />
+ GitHub: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Google" />
+ Google: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+ HTML5: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />
+ JavaScript: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
+ LinkedIn: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40" title="MS-DOS" />
+ Markdown: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />
+ Next JS: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />
+ Node JS: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />
+ Trello: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />
+ VSCode: https://www.google.com/intl/pt-BR/chrome/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" title="Yarn" />
+ Yarn: https://www.google.com/intl/pt-BR/chrome/
+</div>
 
 ### 🔧 Instalação
 
